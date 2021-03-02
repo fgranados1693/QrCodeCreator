@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\QrGenerator\QrGenerator\bin\Debug\QrGenerator.exe.config
+C:\Users\Asus\source\repos\QrGenerator\QrGenerator\bin\Debug\QrGenerator.exe
+C:\Users\Asus\source\repos\QrGenerator\QrGenerator\bin\Debug\QrGenerator.pdb
+C:\Users\Asus\source\repos\QrGenerator\QrGenerator\bin\Debug\QRCoder.dll
+C:\Users\Asus\source\repos\QrGenerator\QrGenerator\obj\Debug\QrGenerator.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\QrGenerator\QrGenerator\obj\Debug\QrGenerator.QRCodeForm.resources
+C:\Users\Asus\source\repos\QrGenerator\QrGenerator\obj\Debug\QrGenerator.Properties.Resources.resources
+C:\Users\Asus\source\repos\QrGenerator\QrGenerator\obj\Debug\QrGenerator.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\QrGenerator\QrGenerator\obj\Debug\QrGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\QrGenerator\QrGenerator\obj\Debug\QrGenerator.csproj.CopyComplete
+C:\Users\Asus\source\repos\QrGenerator\QrGenerator\obj\Debug\QrGenerator.exe
+C:\Users\Asus\source\repos\QrGenerator\QrGenerator\obj\Debug\QrGenerator.pdb
